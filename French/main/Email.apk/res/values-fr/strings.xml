@@ -744,7 +744,7 @@ Bonjour, veuillez vérifier que le mot de passe de l'application est activé. S'
   <string name="menu_settings">Paramètres</string>
   <string name="merged_mailbox_compose_select_account">Sélectionnez un compte</string>
   <string name="message_all_body">Corps entier du message</string>
-  <string name="message_body_load_set_description">"Charger les e-mails via les données cellulaires"</string>
+  <string name="message_body_load_set_description">"Charger les e-mails via les données mobiles"</string>
   <string name="message_compose_insert_quick_response_list_title">Insérez une réponse rapide</string>
   <string name="message_decode_error">Impossible de décoder le message</string>
   <string name="message_discarded">Brouillon supprimé.</string>
@@ -1130,7 +1130,7 @@ Attendez la synchronisation complète ou visualisez le message sur votre ordinat
   <string name="special_text_sender_en">expéditeur</string>
   <string name="storage">Stockage</string>
   <string name="str_select_all">Tout sélectionner</string>
-  <string name="str_select_none">Tout déselectionner</string>
+  <string name="str_select_none">Tout désélectionner</string>
   <string name="subject_hint">Objet</string>
   <string name="successfully_obtained_authorization_code">Code de vérification</string>
   <string name="sync_calendra_fail_per_content">Appuyez pour autoriser</string>

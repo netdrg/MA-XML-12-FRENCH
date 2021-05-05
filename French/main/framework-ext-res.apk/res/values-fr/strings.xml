@@ -3,7 +3,7 @@
   <string name="activity_package_delete_confirm_title">Attention</string>
   <string name="add_frequent_phrases">Ajouter des phrases fréquentes</string>
   <string name="all_call_livetalk_enable">Utiliser les recharges pour les appels nationaux et internationaux</string>
-  <string name="all_call_livetalk_remain_mins">Minutes restantes: %1$s national | %2$s international</string>
+  <string name="all_call_livetalk_remain_mins">Minutes restantes : %1$s national | %2$s international</string>
   <string name="always">Toujours</string>
   <string name="alwaysUsePrompt">Se souvenir de mon choix</string>
   <string name="application_cannot_open_alipay_health_code">"Impossible d'ouvrir le code de santé Alipay"</string>
@@ -199,7 +199,7 @@
   <string name="popup_camera_using_camera_background">"%s utilise l'appareil photo frontale"</string>
   <string name="reboot_confirm_title">"Redémarrer l'appareil maintenant ?"</string>
   <string name="reboot_info_auto_boot">"L'appareil est prévu pour s'allumer à %s"</string>
-  <string name="reboot_info_shutdown_alarm">Alarme suivante: %s</string>
+  <string name="reboot_info_shutdown_alarm">Prochaine alarme : %s</string>
   <string name="reboot_progress">Redémarrage…</string>
   <string name="remain">Restant : %s</string>
   <string name="replace">Remplacer</string>
@@ -229,7 +229,7 @@
   <string name="security_permission_network_failed_text">Impossible de se connecter au réseau. Vérifiez vos paramètres réseau, puis réessayez.</string>
   <string name="security_permission_open_wifi_settings">Ouvrir les paramètres Wi-Fi</string>
   <string name="security_permission_validate_warning">Merci de votre aide pour améliorer MIUI !</string>
-  <string name="security_permission_wifi_and_data_opened_text">Wi-Fi et données cellulaires activées</string>
+  <string name="security_permission_wifi_and_data_opened_text">Wi-Fi et données mobiles activées</string>
   <string name="security_permission_xiaomi_account_missed_text">"Saisissez le nom d'utilisateur de votre compte Mi"</string>
   <string name="security_share_text">Protection de la vie privée</string>
   <string name="select">Sélectionner</string>
@@ -246,7 +246,7 @@
   <string name="sim_added_reboot_title">"Votre carte SIM ne sera activée qu'après un redémarrage."</string>
   <string name="sim_lock_non_ais_msg">"Votre carte SIM n’est pas complètement opérationnelle avec ce téléphone car elle n’est pas conforme aux conditions générales de votre abonnement. Si vous avez des questions ou avez besoin de plus d'informations à ce sujet, veuillez contacter les centres de service Xiaomi ou le magasin qui vous a vendu des produits.."</string>
   <string name="sim_lock_now_ais_title">SIM %1$d</string>
-  <string name="slatoast">"L'utilisation de données cellulaires pour augmenter la vitesse peut consommer des données cellulaires"</string>
+  <string name="slatoast">"L'utilisation de données mobiles pour augmenter la vitesse peut consommer des données mobiles"</string>
   <string name="slavewifi">Double Wi-Fi</string>
   <string name="slavewifi_disconnect">Déconnecter</string>
   <string name="slavewifi_notification_title">Double accélération Wi-Fi</string>
@@ -262,7 +262,7 @@
   <string name="status_bar_toggle_battery_saver">Économiseur de batterie</string>
   <string name="status_bar_toggle_bluetooth">Bluetooth</string>
   <string name="status_bar_toggle_cast">Diffusion</string>
-  <string name="status_bar_toggle_data">Données cellulaires</string>
+  <string name="status_bar_toggle_data">Données mobiles</string>
   <string name="status_bar_toggle_edit">Trier</string>
   <string name="status_bar_toggle_flight_mode">Mode avion</string>
   <string name="status_bar_toggle_gps">GPS</string>
@@ -273,7 +273,7 @@
   <string name="status_bar_toggle_paper_mode">Mode lecture</string>
   <string name="status_bar_toggle_power_mode">Performance</string>
   <string name="status_bar_toggle_quiet_mode">NPD</string>
-  <string name="status_bar_toggle_rotate">Rotation</string>
+  <string name="status_bar_toggle_rotate">"Verrouiller l'orientation"</string>
   <string name="status_bar_toggle_screen_button">Boutons</string>
   <string name="status_bar_toggle_screenshot">"Capture d'écran"</string>
   <string name="status_bar_toggle_sync">Synchronisation</string>
